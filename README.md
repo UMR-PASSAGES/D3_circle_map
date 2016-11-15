@@ -4,4 +4,4 @@ This is a D3 map with proportional circles. You can chose which data is represen
 
 Data is provided as a json of world countries and a CSV with fictional data.
 
-<img src="images/screenshot.png" alt="map screenshot" width="600"/>
+<img src="images/screenshot.png" alt="map screenshot" width="800"/>
